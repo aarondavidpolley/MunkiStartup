@@ -1,5 +1,5 @@
 # MunkiStartup
 
-In development scripting for launching munki daemons at startup
+Custom LaunchDaemon for running Munki at boot
 
-Do not use without permission
+This is available under the MIT License: https://github.com/aarondavidpolley/MunkiStartup/blob/master/LICENSE
